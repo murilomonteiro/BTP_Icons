@@ -1,4 +1,4 @@
-# BTP Icons To use with Draw.io
+# BTP Service Icons to use with Draw.io
 Draw.io template with SAP BTP Services icons in SVG.
 
 Open Draw.io and import via URL or device.
