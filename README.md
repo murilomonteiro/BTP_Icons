@@ -1,4 +1,6 @@
 # BTP Icons To use with Draw.io
-Draw.io template with all icons, SVG and PNG
+Draw.io template with SAP BTP Services icons in SVG.
 
-![error_login](https://user-images.githubusercontent.com/371881/139350658-3b6df827-2c0d-466c-9389-b674d0426cbf.gif)
+Open Draw.io and import via URL or device.
+
+![import_url](https://user-images.githubusercontent.com/371881/139351870-2b2f579e-d047-4f03-8ff0-e369771b7c14.gif)
